@@ -14,7 +14,7 @@ What we covered:
 6. Relationship between Git and GitHub
 7. Building a portfolio with Git and GitHub
 
-Check the [slides](creating a compelling portifolio with git and github.odp) for a more detailed explaner.
+Check the slides for a more detailed explaner.
 
 ----
 
